@@ -18,7 +18,7 @@ Likely increase in the Index = extra energy * Potential for increase in the Inde
 There are also several constraints:
 in total there are 50000 zillion DSML available for allocation and no galaxy at a point in time should be allocated more than 100 zillion DSML or less than 0 zillion DSML. Galaxies with low existence expectancy index below 0.7 should be allocated at least 10% of the total energy available in the foreseeable future
 
-3. Leaderboard is based on a combined scaled metric:
+Leaderboard is based on a combined scaled metric:
 80% prediction task RMSE + 20% optimization task RMSE * lambda where lambda is a normalizing factor
 
-4. Leaderboard is 80% public and 20% private
+Leaderboard is 80% public and 20% private

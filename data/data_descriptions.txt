@@ -1,0 +1,8 @@
+there should be 3 raw data files here
+1. train.csv
+2. test.csv
+3. sample_submit.csv
+
+the first 2 are self explanatory.
+the sample_submit.csv file has an index associated with each row on the test.csv file
+there are 2 scores to predict - index values and allocated energy which uses index values as an input
